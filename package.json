@@ -1,0 +1,26 @@
+{
+  "name": "teste-frontend-gblix",
+  "version": "0.0.1",
+  "description": "Teste de Frontend da Gblix",
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniorgarcia/teste-frontend-gblix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juniorgarcia/teste-frontend-gblix/issues"
+  },
+  "homepage": "https://github.com/juniorgarcia/teste-frontend-gblix#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.10"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
